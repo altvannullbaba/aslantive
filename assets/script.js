@@ -13,7 +13,7 @@ function aBB() {
     window.onload = init;
     function init() {
         // the code to be called when the dom has fully loaded!
-      //  aBB();
+        aBB();
         let lBB = document.getElementById("loader");
         let tLBB = document.getElementById("loadingtext");
         let pcBBA = document.getElementById("pagecontent");
